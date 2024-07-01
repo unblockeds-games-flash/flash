@@ -1,0 +1,22 @@
+{
+"companyName": "Mad Pixel",
+"productName": "Mad GunZ",
+"productVersion": "2.1.15",
+"dataUrl": "10.11 (1).data.unityweb",
+"wasmCodeUrl": "10.11 (1).wasm.code.unityweb",
+"wasmFrameworkUrl": "10.11 (1).wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.29f1",
+"totalFile": 5,
+"size": 113593879,
+"split_size": 22718776,
+"totalFileCode": 2,
+"size_code": 38323941,
+"split_size_code": 19161971
+}
